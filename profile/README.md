@@ -13,15 +13,15 @@
 
 ### Our Vision
 
-Cuesoft's vision is to demystify and reimagine how people build and interact with software.
+Cuesoft's vision is to **demystify and reimagine** how people build and interact with software.
 
 ### Our Mission
 
-Cuesoft's mission is to use software and cloud computing to make enterprise software affordable and accessible to all types of businesses.
+Cuesoft's mission is to use **software and cloud computing** to make **enterprise software affordable and accessible** to all types of businesses.
 
 ### Our Values
 
-Be a Cuesoft ACE.
+Be a Cuesoft **ACE**.
 
 A - Accountability<br>
 C - Collaboration<br>
