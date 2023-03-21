@@ -11,6 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+We use software and cloud computing to make enterprise software affordable and accessible to all types of businesses.
+
 ### Our Vision
 
 Cuesoft's vision is to **demystify and reimagine** how people build and interact with software.
