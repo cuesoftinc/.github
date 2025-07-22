@@ -13,16 +13,19 @@
 
 ### Our Vision
 
-Cuesoft's vision is to **demystify and reimagine** how people build and interact with software.
+Cuesoft's vision is to leverage artificial intelligence to improve the **quality of education** and **increase digital literacy**, empowering individuals across Africa to achieve higher productivity and growth.
 
 ### Our Mission
 
-Cuesoft's mission is to make **innovative software and global talent affordable and accessible** to all types of businesses.
+Cuesoft's mission is to be a leader in **transforming education** and **enhancing digital literacy across Africa**, ultimately boosting the continent's overall productivity.
 
 ### Our Values
 
-Be a Cuesoft **ACE**.
+Create **IMPACT** by being a Cuesoft **ACE**.
 
-A - Accountability<br>
-C - Collaboration<br>
-E - Excellence
+I - Innovation<br>
+M - Mastery<br>
+P - Partnership<br>
+A - Accessibility<br>
+C - Capability<br>
+T - Transformation
