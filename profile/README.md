@@ -31,3 +31,9 @@ Create **IMPACT** by being a Cuesoft **ACE**.
 | A | Accessibility |
 | C | Capability |
 | T | Transformation |
+
+|   |                |
+|:-:|----------------|
+| A | Accountability |
+| C | Collaboration |
+| E | Excellence |
