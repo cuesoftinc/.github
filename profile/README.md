@@ -13,7 +13,7 @@
 
 ### Our Vision
 
-Cuesoft's vision is to leverage artificial intelligence to improve the **quality of education** and **increase digital literacy**, empowering individuals across Africa to achieve higher productivity and growth.
+Cuesoft's vision is to make **innovative software** and **global talent** affordable and accessible to all types of businesses.
 
 ### Our Mission
 
