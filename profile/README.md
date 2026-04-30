@@ -17,15 +17,17 @@ Cuesoft's vision is to make **innovative software** and **global talent** afford
 
 ### Our Mission
 
-Cuesoft's mission is to build a **talent development** and **management pipeline** that ultimately leads to faster and more efficient hiring and delivery.
+Cuesoft's mission is to build a **talent development** and **management pipeline** enabling faster hiring and more efficient project delivery.
 
 ### Our Values
 
 Create **IMPACT** by being a Cuesoft **ACE**.
 
-I - Innovation<br>
-M - Mastery<br>
-P - Partnership<br>
-A - Accessibility<br>
-C - Capability<br>
-T - Transformation
+|   |            |
+|:-:|------------|
+| I | Innovation |
+| M | Mastery |
+| P | Partnership |
+| A | Accessibility |
+| C | Capability |
+| T | Transformation |
